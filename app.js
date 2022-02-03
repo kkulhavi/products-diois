@@ -1,3 +1,7 @@
+//npm install ->instalira sve dependencije iz package.json
+//npm run start ->nodemon
+//npm init ->kreira package.json
+
 const express = require('express')
 const cors=require('cors')
 const app = express()
